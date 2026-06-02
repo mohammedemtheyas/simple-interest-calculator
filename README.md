@@ -1,7 +1,7 @@
 # Simple Interest Calculator
 
 A simple web-based application that calculates **Simple Interest** using the principal amount, annual interest rate, and time period. This project is built using **HTML, CSS, and JavaScript** and provides an easy-to-use interface for performing financial calculations.
-
+typo
 ## About The Project
 
 The Simple Interest Calculator helps users quickly determine the interest earned on a principal amount over a specified period. It is designed as a beginner-friendly project to demonstrate the use of web technologies and basic JavaScript calculations.
